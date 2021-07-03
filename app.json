@@ -1,7 +1,6 @@
 {
-  "name": "𝙳𝙴𝚅𝙸𝙻 𝚄𝚂𝙴𝚁𝙱𝙾𝚃",
-  "description": "The best userbot made by @deviluserbot. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @deviluserbot ",
-  "logo": "https://telegra.ph/file/1a521001683a360053b32.jpg",
+  "name": "ReDevil Userbot",
+  "description": "Next Generation Userbot",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +8,6 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/lucifeermorningstar/Devil/",
-  "website": "https://github.com/lucifeermorningstar/Devil/",
-  "success_url": "https://t.me/deviluserbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
